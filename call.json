@@ -1,9 +1,5 @@
-[
-    {
-        "action": "stream",
-        "streamUrl": [
-            "https://nexmo-community.github.io/ncco-examples/assets/voice_api_audio_streaming.mp3"
-        ]
-    }
-]
+[{
+    "action": "stream",
+    "streamUrl": ["https://jburgosjr.github.io/test.mp3"]
+}]
 
