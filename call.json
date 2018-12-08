@@ -1,7 +1,6 @@
 [
-    {
-        "action":"talk",
-        "voiceName":"Salli",
-        "text":"Choi Sees all"
-    }
+{
+"action": "stream",
+"streamUrl": ["http://k002.kiwi6.com/hotlink/2l63dh7k2v/thomas_the_tank_vs_biggie_smalls_-_hypnotize.mp3"]
+}
 ]
